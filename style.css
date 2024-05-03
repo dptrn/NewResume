@@ -1,0 +1,123 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #D4AC0D ;
+    
+}
+h1{
+    margin-left: 40%;
+    padding: 5px;
+    color: white;
+
+}
+.main{
+    background-color: white;
+    color: black;
+    width: 650px;
+    height: 700px;
+    padding-top: 20px;
+    margin-left: 30%;
+}
+#img{
+    width: 130px;
+    height: 180px;
+    padding: 5px;
+    border-radius: 0px 0px 100px 100px;
+    margin-left: 60px;
+}
+.mainclass{
+    display: flex;
+}
+.mainclass .mainclass1 .main1{
+    background-color: #E5E7E9;
+    color: black;
+    width: 250px;
+    height: 495px;
+    padding: 5px;
+}
+.mainclass .mainclass1 .main1 .para3 p{
+    font-weight: bolder;
+}
+.mainclass .mainclass1 .main1 .para4 p{
+    font-weight: bolder;
+}
+.mainclass .mainclass1 .main1 .refer .refer1{
+    background-color: #D4AC0D;
+    height: 50px;
+    width: 3px;
+}
+.mainclass .mainclass1 .main1 .refer{
+    display: flex;
+}
+.mainclass .mainclass1 .main1 .refer .para5 .content1 p{
+    font-weight: bolder;
+}
+.mainclass .mainclass1 .main1 .refer .para5{
+    margin-left: 5px;
+}
+.mainclass .mainclass1 .main1 .reference .refer2{
+    background-color: #D4AC0D;
+    height: 50px;
+    width: 3px;
+}
+.mainclass .mainclass1 .main1 .reference{
+    display: flex;
+}
+.mainclass .mainclass1 .main1 .reference .para6 .content2 p{
+    font-weight: bolder;
+}
+.mainclass .mainclass1 .main1 .reference .para6{
+    margin-left: 5px;
+}
+.mainclass .mainclass1 .main1{
+     
+    padding: 5px;
+}
+.main .mainclass .mainclass2{
+    margin-left: 40px;
+}
+.main .mainclass .mainclass2 .horiline{
+    background-color: #D4AC0D;
+
+    height: 5px;
+    width: 370px;
+}
+.main .mainclass .mainclass2 .lorem .lorem1{
+    background-color: #D4AC0D;
+    height: 50px;
+    width: 3px;
+}
+.main .mainclass .mainclass2 .lorem{
+    display: flex;
+}
+.main .mainclass .mainclass2 .lorem .para8{
+    margin-left: 5px;
+}
+.main .mainclass .mainclass2 .dummy .lorem2{
+    background-color: #D4AC0D;
+    height: 50px;
+    width: 3px;
+}
+.main .mainclass .mainclass2 .dummy{
+    display: flex;
+}
+.main .mainclass .mainclass2 .dummy .para11{
+    margin-left: 5px;
+}
+.main .mainclass .mainclass2 .skills{
+    display: flex;
+}
+.main .mainclass .mainclass2 .skills .skill2{
+     margin-left: 10px;
+}
+.main .mainclass .mainclass2 .int{
+    columns: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.main .mainclass .mainclass1 .main1{
+    padding: 10px;
+}
